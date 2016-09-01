@@ -1,0 +1,6 @@
+( Instead of storing the words in an array, you can try the following steps: Find out the length of each word in the sentence and store it in an array (the length, not the word itself),60)
+( Make the array a structure type array, consisting of the members: index and length,120)
+( Quicksort will be the fastest,120)
+( Sort the array according to the length using any sorting algorithm you wish,120)
+( The array should be of the same structure type used in the previous steps,114)
+( The index is a unique number assigned to each word,120)

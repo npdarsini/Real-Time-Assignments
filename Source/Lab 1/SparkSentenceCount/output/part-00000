@@ -1,0 +1,6 @@
+(  Find out the length of each word in the sentence and store it in an array (the length, not the word itself),59)
+( Another method you can utilize is insertion sort,120)
+( Find out the length of each word as you read the sentence and insert it into its proper place in the array, using insertion sort,114)
+( Find out the length of each word in the sentence and store it in an array (the length, not the word itself),1)
+( Hence, each element of the array contains the word index and the corresponding length,120)
+( In any case you have to find out the length of each word in the sentence,60)
